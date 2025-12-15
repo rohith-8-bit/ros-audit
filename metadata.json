@@ -1,0 +1,5 @@
+{
+  "name": "ROS Code Auditor & Sim",
+  "description": "A minimalist interface for validating ROS/ROS2 code and previewing robotic arm simulations.",
+  "requestFramePermissions": []
+}
